@@ -10,7 +10,7 @@ Focusing on everything on the memorization of foundation models with the interac
 ## Papers
 ### Membership Inference Attack
 - Membership Inference Attacks on Machine Learning: A Survey(ACM Computing Surveys 2022)[paper](https://dl.acm.org/doi/10.1145/3523273)
-- Membership Inference Attacks against Machine Learning Models(IEEE S&P 2017)[paper](http://arxiv.org/abs/1610.05820)
+- Membership Inference Attacks against Machine Learning Models(IEEE S&P 2017)[\[paper\]](http://arxiv.org/abs/1610.05820)
 - Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting(IEEE CSF 2018)[paper](https://arxiv.org/abs/1709.01604)
 - Enhanced Membership Inference Attacks against Machine Learning Models(CCS 2022)[paper](https://dl.acm.org/doi/10.1145/3548606.3560675)
 - Membership Inference Attacks From First Principles(IEEE S&P 2022)[paper](https://arxiv.org/abs/2112.03570v2)
