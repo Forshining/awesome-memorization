@@ -18,11 +18,13 @@ Focusing on everything on the memorization of foundation models with the interac
 - On the Importance of Difficulty Calibration in Membership Inference Attacks(ICLR 2022) [\[paper\]](https://arxiv.org/pdf/2111.08440)
 - A Blessing of Dimensionality in Membership Inference through Regularization(AISTATS 2023) [\[paper\]](https://proceedings.mlr.press/v206/tan23b/tan23b.pdf)
 - Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries(ICLR 2023) [\[paper\]](https://arxiv.org/pdf/2210.10750)
+- Scalable membership inference attacks via quantile regression（NeurIPS 2023) [\[paper\]](https://openreview.net/pdf?id=t3WCiGjHqd)
 - Investigating Membership Inference Attacks under Data Dependencies(IEEE CSF 2023) [\[paper\]](https://arxiv.org/pdf/2010.12112)
 - Why Does Differential Privacy with Large Epsilon Defend Against Practical Membership Inference Attacks?(AAAI 2023) [\[paper\]](https://arxiv.org/pdf/2402.09540)
 - Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models.(arXiv 2024) [\[paper\]](https://arxiv.org/pdf/2404.01231)
-
+- Leave-one-out Distinguishability in Machine Learning(ICLR 2024) [\[paper\]](https://openreview.net/pdf?id=9RNfX0ah0K)
 - Mitigating Privacy Risk in Membership Inference by Convex-Concave Loss(ICML 2024) [\[paper\]](https://arxiv.org/pdf/2402.05453)
+- Low-Cost High-Power Membership Inference by Boosting Relativity(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=dRel8fuUK4)
 
 
 #### Membership Inference Attack in Specific Scenarios
@@ -42,5 +44,22 @@ Focusing on everything on the memorization of foundation models with the interac
 
 - Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning(ECCV 2022) [\[paper\]](https://arxiv.org/pdf/2207.12535)
 - Membership Inference Attacks against Synthetic Data through Overfitting Detection(AISTATS 2023) [\[paper\]](https://arxiv.org/pdf/2302.12580)
-- Students Parrot Their Teachers: Membership Inference on Model Distillation(NIPS 2023) [\[paper\]](https://openreview.net/pdf?id=a2Yg9Za6Rb)
-- 
+- Students Parrot Their Teachers: Membership Inference on Model Distillation(NeurIPS 2023) [\[paper\]](https://openreview.net/pdf?id=a2Yg9Za6Rb)
+
+### Differential Privacy
+
+
+### Neural Collapse
+- Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
+
+### Data Pruning/Data Condensation/Data Selection
+
+
+### Noisy Learning
+#### Privilage Information
+- Learning Using Privileged Information: Similarity Control and Knowledge Transfer(NN 2009) [\[paper\]](https://www.jmlr.org/papers/volume16/vapnik15b/vapnik15b.pdf)
+- Transfer and Marginalize: Explaining Away Label Noise with Privileged Information(ICML 2022) [\[paper\]](https://arxiv.org/pdf/2202.09244)
+- When does Privileged Information Explain Away Label Noise?(ICML 2023) [\[paper\]](https://proceedings.mlr.press/v202/ortiz-jimenez23a/ortiz-jimenez23a.pdf)
+- Pi-DUAL: Using privileged information to distinguish clean from noisy labels(ICML 2024) [\[paper\]](https://arxiv.org/pdf/2310.06600)
+
+  
