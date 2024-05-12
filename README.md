@@ -56,7 +56,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
 
 ### Data Pruning/Data Condensation/Data Selection
-
+- Ameliorate Spurious Correlations in Dataset Condensation(ICML 2024) [\[paper\]]
 
 ### Noisy Learning
 #### Privilage Information
