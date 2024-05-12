@@ -1,6 +1,7 @@
 # awesome-memorization
+**Still Under Constructed**
 Focusing on everything on the memorization of foundation models with the interaction of following topics from both empirical and theoretical view(esp. statistical view):
-- Memorization and Generalization
+- Memorization, Generalization and Optimization
 - Memorization, Forgetting and Machine Unlearning
 - Memorization in Diffusion Models
 - Memorization in Security&Privacy, including differential privacy, privacy attacks, etc
@@ -49,6 +50,8 @@ Focusing on everything on the memorization of foundation models with the interac
 ### Differential Privacy
 
 
+
+
 ### Neural Collapse
 - Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
 
@@ -58,8 +61,12 @@ Focusing on everything on the memorization of foundation models with the interac
 ### Noisy Learning
 #### Privilage Information
 - Learning Using Privileged Information: Similarity Control and Knowledge Transfer(NN 2009) [\[paper\]](https://www.jmlr.org/papers/volume16/vapnik15b/vapnik15b.pdf)
+- Mind the Nuisance: Gaussian Process Classification using Privileged Noise(NIPS 2014) [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2014/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)
+- Unifying distillation and privileged information(ICLR 2016) [\[paper\]](https://arxiv.org/pdf/1511.03643)
 - Transfer and Marginalize: Explaining Away Label Noise with Privileged Information(ICML 2022) [\[paper\]](https://arxiv.org/pdf/2202.09244)
 - When does Privileged Information Explain Away Label Noise?(ICML 2023) [\[paper\]](https://proceedings.mlr.press/v202/ortiz-jimenez23a/ortiz-jimenez23a.pdf)
 - Pi-DUAL: Using privileged information to distinguish clean from noisy labels(ICML 2024) [\[paper\]](https://arxiv.org/pdf/2310.06600)
 
-  
+### Memorization, Generalization and Optimization
+- Information Complexity of Stochastic Convex Optimization: Applications to Generalization and Memorization(ICML 2024) [\[paper\]](https://arxiv.org/pdf/2402.09327)
+
