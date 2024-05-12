@@ -9,6 +9,18 @@ Focusing on everything on the memorization of foundation models with the interac
 - Memorization and data distribution/model architecture
 
 ## Papers
+### Definition of Memorization and Evolution
+- Understanding deep learning requires rethinking generalization(ICLR 2017) [\[paper\]](https://openreview.net/pdf?id=Sy8gdB9xx)
+- A Closer Look at Memorization in Deep Networks(ICML 2017) [\[paper\]](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
+- What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation(NIPS 2020) [\[paper\]](https://arxiv.org/pdf/2008.03703)
+- Does Learning Require Memorization? A Short Tale about a Long Tail(STOC 2020) [\[paper\]](https://arxiv.org/pdf/1906.05271)
+- When is memorization of irrelevant training data necessary for high-accuracy learning?(STOC 2021) [\[paper\]](https://arxiv.org/pdf/2012.06421)
+- On Memorization in Probabilistic Deep Generative Models(NIPS 2021) [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)
+- The Privacy Onion Effect: Memorization is Relative(NIPS 2022) [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/564b5f8289ba846ebc498417e834c253-Paper-Conference.pdf)
+- Can Neural Network Memorization Be Localized?(ICML 2023) [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
+- Quantifying Memorization Across Neural Language Models(ICLR 2023) [\[paper\]](https://arxiv.org/pdf/2202.07646)
+
+
 ### Membership Inference Attack
 #### Membership Inference Attack, Improvements and Interpretations
 - Membership Inference Attacks on Machine Learning: A Survey(ACM Computing Surveys 2022) [\[paper\]](https://dl.acm.org/doi/10.1145/3523273)
