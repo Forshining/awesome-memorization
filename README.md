@@ -1,5 +1,7 @@
 # awesome-memorization
+
 **Still Under Constructed**
+
 Focusing on everything on the memorization of foundation models with the interaction of following topics from both empirical and theoretical view(esp. statistical view):
 - Memorization, Generalization and Optimization
 - Memorization, Forgetting and Machine Unlearning
