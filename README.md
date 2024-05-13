@@ -26,6 +26,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (UAI 2023) Mnemonist: Locating Model Parameters that Memorize Training Examples [\[paper\]](https://proceedings.mlr.press/v216/shahin-shamsabadi23a/shahin-shamsabadi23a.pdf)
 - (ICML 2023) Can Neural Network Memorization Be Localized? [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
 - (STOC 2021) When is memorization of irrelevant training data necessary for high-accuracy learning? [\[paper\]](https://arxiv.org/pdf/2012.06421)
+- (arXiv 2020) Modifying Memories in Transformer Models [\[paper\]](https://arxiv.org/pdf/2012.00363)
 - (STOC 2020) Does Learning Require Memorization? A Short Tale about a Long Tail [\[paper\]](https://arxiv.org/pdf/1906.05271)
 - (ICLR 2020) Identity Crisis: Memorization and Generalization under Extreme Overparameterization [\[paper\]](https://openreview.net/pdf?id=B1l6y0VFPr)
 - (NeurIPS 2020) What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation [\[paper\]](https://arxiv.org/pdf/2008.03703)
@@ -38,9 +39,11 @@ Focusing on everything on the memorization of foundation models with the interac
 
 #### Forgetting and Machine Unlearning
 - (arXiv 2024) Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy [\[paper\]](http://arxiv.org/pdf/2403.01218)
+- (ICLR 2024) Machine Unlearning for Image-to-Image Generative Models [\[paper\]](https://openreview.net/pdf?id=9hjVoPWPnh)
 - (arXiv 2023) The Curse of Recursion: Training on Generated Data Makes Models Forget [\[paper\]](https://arxiv.org/pdf/2305.17493)
 - (ICLR 2023) Measuring Forgetting of Memorized Training Examples [\[paper\]](https://openreview.net/pdf?id=7bJizxLKrR)
-- (NIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
+- (NeurIPS 2023) Model Sparsity Can Simplify Machine Unlearning [\[paper\]](https://openreview.net/pdf?id=0jZH883i34)
+- (NeurIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
 - (ICLR 2019) An Empirical Study of Example Forgetting during Deep Neural Network Learning [\[paper\]](https://openreview.net/pdf?id=BJlxm30cKm)
 - (IJCNN 2020) On Catastrophic Forgetting and Mode Collapse in Generative Adversarial Networks [\[paper\]](https://arxiv.org/pdf/1807.04015)
 - (PNAS 2017) Overcoming catastrophic forgetting in neural networks [\[paper\]](https://arxiv.org/pdf/1612.00796)
@@ -103,6 +106,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (ICLR 2024) On the Joint Interaction of Models, Data, and Features [\[paper\]](https://openreview.net/pdf?id=ze7DOLi394)
 - (NeurIPS 2023) Data pruning and neural scaling laws: fundamental limitations of score-based algorithms [\[paper\]](http://arxiv.org/pdf/2302.06960)
 - (NeurIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
+- （NeurIPS 2022) Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/77dd8e90fe833eba5fae86cf017d7a56-Paper-Conference.pdf)
 - (NeurIPS 2021) Deep Learning on a Data Diet: Finding Important Examples Early in Training [\[paper\]](https://openreview.net/pdf?id=Uj7pF-D-YvT)
 - (ICLR 2020) Estimating informativeness of samples with Smooth Unique Information [\[paper\]](https://openreview.net/pdf?id=kEnBH98BGs5)
 
