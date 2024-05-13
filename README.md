@@ -15,15 +15,24 @@ Focusing on everything on the memorization of foundation models with the interac
 - (ICLR 2017) Understanding deep learning requires rethinking generalization [\[paper\]](https://openreview.net/pdf?id=Sy8gdB9xx)
 - (ICML 2017) A Closer Look at Memorization in Deep Networks [\[paper\]](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
 - (NeurIPS 2020) What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation [\[paper\]](https://arxiv.org/pdf/2008.03703)
+- (ICLR 2020) Identity Crisis: Memorization and Generalization under Extreme Overparameterization [\[paper\]](https://openreview.net/pdf?id=B1l6y0VFPr)
 - (STOC 2020) Does Learning Require Memorization? A Short Tale about a Long Tail [\[paper\]](https://arxiv.org/pdf/1906.05271)
 - (STOC 2021) When is memorization of irrelevant training data necessary for high-accuracy learning? [\[paper\]](https://arxiv.org/pdf/2012.06421)
 - (NIPS 2021) On Memorization in Probabilistic Deep Generative Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)
 - (NIPS 2022) The Privacy Onion Effect: Memorization is Relative [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/564b5f8289ba846ebc498417e834c253-Paper-Conference.pdf)
 - (ICML 2023) Can Neural Network Memorization Be Localized? [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
+- (UAI 2023) Mnemonist: Locating Model Parameters that Memorize Training Examples [\[paper\]](https://proceedings.mlr.press/v216/shahin-shamsabadi23a/shahin-shamsabadi23a.pdf)
 - (CVPR 2023) Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf) [\[code\]](https://github.com/somepago/DCR)
 - (NeurIPS 2023) Understanding and Mitigating Copying in Diffusion Models [\[paper\]](https://arxiv.org/pdf/2305.20086) [\[code\]](https://github.com/somepago/DCR)
+- (NeurIPS 2023) Counterfactual Memorization in Neural Language Models [\[paper\]](http://arxiv.org/pdf/2112.12938)
+- (NeurIPS 2023) Emergent and Predictable Memorization in Large Language Models [\[paper\]](https://openreview.net/pdf?id=Iq0DvhB4Kf)
+- (NeurIPS 2023) Do SSL Models Have $D\'ej\`a$ Vu? A Case of Unintended Memorization in Self-supervised Learning [\[paper\]](https://openreview.net/pdf?id=lkBygTc0SI)
 - (ICLR 2023) Quantifying Memorization Across Neural Language Models [\[paper\]](https://arxiv.org/pdf/2202.07646)
+- (INLG 2023)Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy [\[paper\]](https://arxiv.org/pdf/2210.17546)
+- (ICLR 2024) Memorization in Self-Supervised Learning Improves Downstream Generalization [\[paper\]](https://openreview.net/pdf?id=KSjPaXtxP8)
+- (ICLR 2024) Detecting, Explaining, and Mitigating Memorization in Diffusion Models [\[paper\]](https://openreview.net/pdf?id=84n3UwkH7b)
 - (arXiv 2024) Rethinking LLM Memorization through the Lens of Adversarial Compression [\[paper\]](https://arxiv.org/pdf/2404.15146)
+- (arXiv 2024) $D\'ej\`a Vu$ Memorization in Vision-Language Models [\[paper\]](https://arxiv.org/pdf/2402.02103)
 
 #### Overparameterized Neural Networks
 
@@ -35,6 +44,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (NIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
 - (ICLR 2023) Measuring Forgetting of Memorized Training Examples [\[paper\]](https://openreview.net/pdf?id=7bJizxLKrR)
 - (arXiv 2023) The Curse of Recursion: Training on Generated Data Makes Models Forget [\[paper\]](https://arxiv.org/pdf/2305.17493)
+- (arXiv 2024) Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy [\[paper\]](http://arxiv.org/pdf/2403.01218)
 
 
 ### Membership Inference Attack
@@ -88,10 +98,18 @@ Focusing on everything on the memorization of foundation models with the interac
 - (ICML 2024) Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
 
 ### Data Pruning/Data Condensation/Data Selection/Example Hardness
+- (ICLR 2020) Estimating informativeness of samples with Smooth Unique Information [\[paper\]](https://openreview.net/pdf?id=kEnBH98BGs5)
+- (NeurIPS 2021) Deep Learning on a Data Diet: Finding Important Examples Early in Training [\[paper\]](https://openreview.net/pdf?id=Uj7pF-D-YvT)
+- (NeurIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
 - (NeurIPS 2023) Data pruning and neural scaling laws: fundamental limitations of score-based algorithms [\[paper\]](http://arxiv.org/pdf/2302.06960)
+- (ICLR 2024) On the Joint Interaction of Models, Data, and Features [\[paper\]](https://openreview.net/pdf?id=ze7DOLi394)
 - (ICML 2024) Ameliorate Spurious Correlations in Dataset Condensation [\[paper\]]
 
 ### Noisy Learning
+- (NeurIPS 2020) Early-Learning Regularization Prevents Memorization of Noisy Labels [\[paper\]](https://proceedings.neurips.cc/paper/2020/file/ea89621bee7c88b2c5be6681c8ef4906-Paper.pdf)
+- (ICLR 2021) Robust early-learning: Hindering the memorization of noisy labels [\[paper\]](https://openreview.net/pdf?id=Eql5b1_hTE4)
+- (ICML 2023) Mitigating Memorization of Noisy Labels by Clipping the Model Prediction [\[paper\]](https://openreview.net/pdf?id=g0ofsq1NRL)
+- (ICML 2023) CrossSplit: Mitigating Label Noise Memorization through Data Splitting [\[paper\]](https://openreview.net/pdf?id=yeF3FMIIpm)
 #### Privilage Information
 - (NN 2009) Learning Using Privileged Information: Similarity Control and Knowledge Transfer [\[paper\]](https://www.jmlr.org/papers/volume16/vapnik15b/vapnik15b.pdf)
 - (NIPS 2014) Mind the Nuisance: Gaussian Process Classification using Privileged Noise [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2014/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)
