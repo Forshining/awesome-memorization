@@ -20,6 +20,8 @@ Focusing on everything on the memorization of foundation models with the interac
 - (NIPS 2021) On Memorization in Probabilistic Deep Generative Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)
 - (NIPS 2022) The Privacy Onion Effect: Memorization is Relative [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/564b5f8289ba846ebc498417e834c253-Paper-Conference.pdf)
 - (ICML 2023) Can Neural Network Memorization Be Localized? [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
+- (CVPR 2023) Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf) [\[code\]](https://github.com/somepago/DCR)
+- (NeurIPS 2023) Understanding and Mitigating Copying in Diffusion Models [\[paper\]](https://arxiv.org/pdf/2305.20086) [\[code\]](https://github.com/somepago/DCR)
 - (ICLR 2023) Quantifying Memorization Across Neural Language Models [\[paper\]](https://arxiv.org/pdf/2202.07646)
 - (arXiv 2024) Rethinking LLM Memorization through the Lens of Adversarial Compression [\[paper\]](https://arxiv.org/pdf/2404.15146)
 
