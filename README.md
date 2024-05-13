@@ -12,8 +12,8 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ## Papers
 ### Definition of Memorization and Evolution
-- Understanding deep learning requires rethinking generalization(ICLR 2017) [\[paper\]](https://openreview.net/pdf?id=Sy8gdB9xx)
-- A Closer Look at Memorization in Deep Networks(ICML 2017) [\[paper\]](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
+- (ICLR 2017)Understanding deep learning requires rethinking generalization [\[paper\]](https://openreview.net/pdf?id=Sy8gdB9xx)
+- (ICML 2017)A Closer Look at Memorization in Deep Networks [\[paper\]](https://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
 - What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation(NIPS 2020) [\[paper\]](https://arxiv.org/pdf/2008.03703)
 - Does Learning Require Memorization? A Short Tale about a Long Tail(STOC 2020) [\[paper\]](https://arxiv.org/pdf/1906.05271)
 - When is memorization of irrelevant training data necessary for high-accuracy learning?(STOC 2021) [\[paper\]](https://arxiv.org/pdf/2012.06421)
