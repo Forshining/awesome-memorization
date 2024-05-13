@@ -19,8 +19,9 @@ Focusing on everything on the memorization of foundation models with the interac
 - The Privacy Onion Effect: Memorization is Relative(NIPS 2022) [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/564b5f8289ba846ebc498417e834c253-Paper-Conference.pdf)
 - Can Neural Network Memorization Be Localized?(ICML 2023) [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
 - Quantifying Memorization Across Neural Language Models(ICLR 2023) [\[paper\]](https://arxiv.org/pdf/2202.07646)
+- Rethinking LLM Memorization through the Lens of Adversarial Compression(arXiv 2024) [\[paper\]](https://arxiv.org/pdf/2404.15146)
 
-### Overparameterized Neural Networks
+#### Overparameterized Neural Networks
 
 
 #### Forgetting and Machine Unlearning
@@ -60,15 +61,19 @@ Focusing on everything on the memorization of foundation models with the interac
 - An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization(ICLR 2024) [\[paper\]](https://openreview.net/pdf?id=rpH9FcCEV6)
 - Membership Inference Attacks on Diffusion Models via Quantile Regression(ICML 2024) [\[paper\]](https://arxiv.org/pdf/2312.05140)
 
-
 ##### Large Language Models
 - Membership Inference Attacks against Language Models via Neighbourhood Comparison(ACL 2023) [\[paper\]](https://arxiv.org/pdf/2305.18462)
 - Do Membership Inference Attacks Work on Large Language Models?(arXiv 2023) [\[paper\]](https://arxiv.org/pdf/2402.07841)
-- 
 
+##### Semi-supervised Learning
 - Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning(ECCV 2022) [\[paper\]](https://arxiv.org/pdf/2207.12535)
+
+##### Synthetic Dataset
 - Membership Inference Attacks against Synthetic Data through Overfitting Detection(AISTATS 2023) [\[paper\]](https://arxiv.org/pdf/2302.12580)
+
+##### Model Distillation/Compression
 - Students Parrot Their Teachers: Membership Inference on Model Distillation(NeurIPS 2023) [\[paper\]](https://openreview.net/pdf?id=a2Yg9Za6Rb)
+
 
 ### Differential Privacy
 
@@ -79,7 +84,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
 
 ### Data Pruning/Data Condensation/Data Selection/Example Hardness
-- 
+- Data pruning and neural scaling laws: fundamental limitations of score-based algorithms(NeurIPS 2023) [\[paper\]](http://arxiv.org/pdf/2302.06960)
 - Ameliorate Spurious Correlations in Dataset Condensation(ICML 2024) [\[paper\]]
 
 ### Noisy Learning
