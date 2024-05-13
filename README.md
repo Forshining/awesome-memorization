@@ -20,6 +20,17 @@ Focusing on everything on the memorization of foundation models with the interac
 - Can Neural Network Memorization Be Localized?(ICML 2023) [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
 - Quantifying Memorization Across Neural Language Models(ICLR 2023) [\[paper\]](https://arxiv.org/pdf/2202.07646)
 
+### Overparameterized Neural Networks
+
+
+#### Forgetting and Machine Unlearning
+- Overcoming catastrophic forgetting in neural networks(PNAS 2017) [\[paper\]](https://arxiv.org/pdf/1612.00796)
+- On Catastrophic Forgetting and Mode Collapse in Generative Adversarial Networks(IJCNN 2020) [\[paper\]](https://arxiv.org/pdf/1807.04015)
+- An Empirical Study of Example Forgetting during Deep Neural Network Learning(ICLR 2019) [\[paper\]](https://openreview.net/pdf?id=BJlxm30cKm)
+- Characterizing Datapoints via Second-Split Forgetting(NIPS 2022) [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
+- Measuring Forgetting of Memorized Training Examples(ICLR 2023) [\[paper\]](https://openreview.net/pdf?id=7bJizxLKrR)
+- The Curse of Recursion: Training on Generated Data Makes Models Forget(arXiv 2023) [\[paper\]](https://arxiv.org/pdf/2305.17493)
+
 
 ### Membership Inference Attack
 #### Membership Inference Attack, Improvements and Interpretations
@@ -67,7 +78,8 @@ Focusing on everything on the memorization of foundation models with the interac
 ### Neural Collapse
 - Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning(ICML 2024) [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
 
-### Data Pruning/Data Condensation/Data Selection
+### Data Pruning/Data Condensation/Data Selection/Example Hardness
+- 
 - Ameliorate Spurious Correlations in Dataset Condensation(ICML 2024) [\[paper\]]
 
 ### Noisy Learning
