@@ -26,6 +26,8 @@ Focusing on everything on the memorization of foundation models with the interac
 - (UAI 2023) Mnemonist: Locating Model Parameters that Memorize Training Examples [\[paper\]](https://proceedings.mlr.press/v216/shahin-shamsabadi23a/shahin-shamsabadi23a.pdf)
 - (ICML 2023) Can Neural Network Memorization Be Localized? [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
 - (STOC 2021) When is memorization of irrelevant training data necessary for high-accuracy learning? [\[paper\]](https://arxiv.org/pdf/2012.06421)
+- (ICLR 2021) On the geometry of generalization and memorization in deep neural networks [\[paper\]](https://arxiv.org/pdf/2105.14602)
+- (NIPS 2021) On Memorization in Probabilistic Deep Generative Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)
 - (arXiv 2020) Modifying Memories in Transformer Models [\[paper\]](https://arxiv.org/pdf/2012.00363)
 - (STOC 2020) Does Learning Require Memorization? A Short Tale about a Long Tail [\[paper\]](https://arxiv.org/pdf/1906.05271)
 - (ICLR 2020) Identity Crisis: Memorization and Generalization under Extreme Overparameterization [\[paper\]](https://openreview.net/pdf?id=B1l6y0VFPr)
@@ -38,12 +40,31 @@ Focusing on everything on the memorization of foundation models with the interac
 ##### Theoretical Analysis 
 - (arXiv 2023) On the Impact of Overparameterization on the Training of a Shallow Neural Network in High Dimensions [\[paper\]](http://arxiv.org/pdf/2311.03794)
 - (NIPS 2023) Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks [\[paper\]](https://openreview.net/pdf?id=IKvxmnHjkL)
+- (JMLR 2023) Benign overﬁtting in ridge regression [\[paper\]](https://www.jmlr.org/papers/volume24/22-1398/22-1398.pdf)
+- (Acta Numerica 2022) Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation [\[paper\]](https://arxiv.org/pdf/2105.14368)
+- (JMLR 2022) Underspecification Presents Challenges for Credibility in Modern Machine Learning [\[paper\]](https://www.jmlr.org/papers/volume23/20-1335/20-1335.pdf)
 - (NIPS 2022) Memorization and Optimization in Deep Neural Networks with Minimum Over-parameterization [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/323746f0ae2fbd8b6f500dc2d5c5f898-Paper-Conference.pdf)
+- (COLT 2022) Memorize to generalize: on the necessity of interpolation in high dimensional linear regression [\[paper\]](https://proceedings.mlr.press/v178/cheng22a/cheng22a.pdf)
+- (arXiv 2022) The Interpolation Phase Transition in Neural Networks: Memorization and Generalization under Lazy Training [\[paper\]](https://arxiv.org/pdf/2007.12826)
 - (arXiv 2022) Dimension Independent Generalization of DP-SGD for Overparameterized Smooth Convex Optimization [\[paper\]](http://arxiv.org/pdf/2206.01836)
 - (NIPS 2022) Parameters or Privacy: A Provable Tradeoff Between Overparameterization and Membership Inference [\[paper\]](https://openreview.net/pdf?id=7nypt7cjNL)
+- (Physical Review Research 2022) Memorizing without overfitting: Bias, variance, and interpolation in overparameterized models [\[paper\]](https://arxiv.org/pdf/2010.13933)
+- (NIPS 2021) A Universal Law of Robustness via Isoperimetry [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/f197002b9a0853eca5e046d9ca4663d5-Paper.pdf)
+- (NIPS 2021) Overparameterization Improves Robustness to Covariate Shift in High Dimensions [\[paper\]](https://openreview.net/pdf?id=PxMfDdPnTfV)
+- (ICML 2020) An Investigation of Why Overparameterization Exacerbates Spurious Correlations [\[paper\]](https://proceedings.mlr.press/v119/sagawa20a/sagawa20a.pdf)
+- (arXiv 2020) Surprises in high-dimensional ridgeless least squares interpolation [\[paper\]](https://arxiv.org/pdf/1903.08560)
+- (arXiv 2020) The generalization error of random features regression: Precise asymptotics and double descent curve [\[paper\]](https://arxiv.org/pdf/1908.05355)
+- (PNAS 2019) Benign overfitting in linear regression [\[paper\]](https://arxiv.org/pdf/1906.11300)
+- (arXiv 2019) Harmless interpolation of noisy data in regression [\[paper\]](https://arxiv.org/pdf/1903.09139)
 
 ##### Empirical Analysis
+- (NIPS 2022) Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0509f4dab6807e2cb465715bf2d249-Paper-Conference.pdf)
 - (ICML 2022) Robust Training under Label Noise by Over-parameterization [\[paper\]](https://arxiv.org/pdf/2202.14026)
+- (ICML 2021) Characterizing Structural Regularities of Labeled Data in Overparameterized Models [\[paper\]](https://arxiv.org/pdf/2002.03206)
+- (ICML 2020) Overfitting in adversarially robust deep learning [\[paper\]](https://proceedings.mlr.press/v119/rice20a/rice20a.pdf)
+- (NIPS 2020) Robust Recovery via Implicit Bias of Discrepant Learning Rates for Double Over-parameterization [\[paper\]](https://proceedings.neurips.cc/paper/2020/file/cd42c963390a9cd025d007dacfa99351-Paper.pdf)
+- (ICLR 2020) Deep Double Descent: Where Bigger Models and More Data Hurt [\[paper\]](https://openreview.net/pdf?id=B1g5sA4twr)
+- (AISTATS 2020) Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks [\[paper\]](https://proceedings.mlr.press/v108/li20j/li20j.pdf)
 - 
 
 
@@ -110,6 +131,7 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ### Neural Collapse
 - (ICML 2024) Neural Collapse meets Differential Privacy: Curious behaviors of NoisyGD with Near-Perfect Representation Learning [\[paper\]](https://openreview.net/pdf?id=ZVi81SH1Ob)
+- (NIPS 2021) A Geometric Analysis of Neural Collapse with Unconstrained Features [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf)
 
 ### Data Pruning/Data Condensation/Data Selection/Example Hardness
 - (ICML 2024) Ameliorate Spurious Correlations in Dataset Condensation [\[paper\]]
@@ -125,6 +147,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (ICML 2023) CrossSplit: Mitigating Label Noise Memorization through Data Splitting [\[paper\]](https://openreview.net/pdf?id=yeF3FMIIpm)
 - (ICML 2023) Mitigating Memorization of Noisy Labels by Clipping the Model Prediction [\[paper\]](https://openreview.net/pdf?id=g0ofsq1NRL)
 - (ICLR 2021) Robust early-learning: Hindering the memorization of noisy labels [\[paper\]](https://openreview.net/pdf?id=Eql5b1_hTE4)
+- (NIPS 2021) Understanding and Improving Early Stopping for Learning with Noisy Labels [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
 - (NeurIPS 2020) Early-Learning Regularization Prevents Memorization of Noisy Labels [\[paper\]](https://proceedings.neurips.cc/paper/2020/file/ea89621bee7c88b2c5be6681c8ef4906-Paper.pdf)
 
 #### Privilage Information
@@ -137,4 +160,7 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ### Memorization, Generalization and Optimization
 - (ICML 2024) Information Complexity of Stochastic Convex Optimization: Applications to Generalization and Memorization [\[paper\]](https://arxiv.org/pdf/2402.09327)
+
+### Miscellaneous
+- Analyzing Leakage of Personally Identifiable Information in Language Models
 
