@@ -35,6 +35,16 @@ Focusing on everything on the memorization of foundation models with the interac
 
 
 #### Overparameterized Neural Networks
+##### Theoretical Analysis 
+- (arXiv 2023) On the Impact of Overparameterization on the Training of a Shallow Neural Network in High Dimensions [\[paper\]](http://arxiv.org/pdf/2311.03794)
+- (NIPS 2023) Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks [\[paper\]](https://openreview.net/pdf?id=IKvxmnHjkL)
+- (NIPS 2022) Memorization and Optimization in Deep Neural Networks with Minimum Over-parameterization [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/323746f0ae2fbd8b6f500dc2d5c5f898-Paper-Conference.pdf)
+- (arXiv 2022) Dimension Independent Generalization of DP-SGD for Overparameterized Smooth Convex Optimization [\[paper\]](http://arxiv.org/pdf/2206.01836)
+- (NIPS 2022) Parameters or Privacy: A Provable Tradeoff Between Overparameterization and Membership Inference [\[paper\]](https://openreview.net/pdf?id=7nypt7cjNL)
+
+##### Empirical Analysis
+- (ICML 2022) Robust Training under Label Noise by Over-parameterization [\[paper\]](https://arxiv.org/pdf/2202.14026)
+- 
 
 
 #### Forgetting and Machine Unlearning
