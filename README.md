@@ -56,6 +56,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (arXiv 2020) The generalization error of random features regression: Precise asymptotics and double descent curve [\[paper\]](https://arxiv.org/pdf/1908.05355)
 - (PNAS 2019) Benign overfitting in linear regression [\[paper\]](https://arxiv.org/pdf/1906.11300)
 - (arXiv 2019) Harmless interpolation of noisy data in regression [\[paper\]](https://arxiv.org/pdf/1903.09139)
+- (arXiv 2019) Reconciling modern machine learning practice and the bias-variance trade-off [\[paper\]](https://arxiv.org/pdf/1812.11118)
 
 ##### Empirical Analysis
 - (NIPS 2022) Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0509f4dab6807e2cb465715bf2d249-Paper-Conference.pdf)
@@ -138,7 +139,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (ICLR 2024) On the Joint Interaction of Models, Data, and Features [\[paper\]](https://openreview.net/pdf?id=ze7DOLi394)
 - (NeurIPS 2023) Data pruning and neural scaling laws: fundamental limitations of score-based algorithms [\[paper\]](http://arxiv.org/pdf/2302.06960)
 - (NeurIPS 2022) Characterizing Datapoints via Second-Split Forgetting [\[paper\]](https://openreview.net/pdf?id=yKDKNzjHg8N)
-- （NeurIPS 2022) Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/77dd8e90fe833eba5fae86cf017d7a56-Paper-Conference.pdf)
+- (NeurIPS 2022) Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/77dd8e90fe833eba5fae86cf017d7a56-Paper-Conference.pdf)
 - (NeurIPS 2021) Deep Learning on a Data Diet: Finding Important Examples Early in Training [\[paper\]](https://openreview.net/pdf?id=Uj7pF-D-YvT)
 - (ICLR 2020) Estimating informativeness of samples with Smooth Unique Information [\[paper\]](https://openreview.net/pdf?id=kEnBH98BGs5)
 
@@ -160,6 +161,9 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ### Memorization, Generalization and Optimization
 - (ICML 2024) Information Complexity of Stochastic Convex Optimization: Applications to Generalization and Memorization [\[paper\]](https://arxiv.org/pdf/2402.09327)
+
+#### Grokking
+- (arXiv 2022) Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets [\[paper\]](https://arxiv.org/pdf/2201.02177)
 
 ### Miscellaneous
 - Analyzing Leakage of Personally Identifiable Information in Language Models
