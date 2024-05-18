@@ -25,6 +25,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (CVPR 2023) Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf) [\[code\]](https://github.com/somepago/DCR)
 - (UAI 2023) Mnemonist: Locating Model Parameters that Memorize Training Examples [\[paper\]](https://proceedings.mlr.press/v216/shahin-shamsabadi23a/shahin-shamsabadi23a.pdf)
 - (ICML 2023) Can Neural Network Memorization Be Localized? [\[paper\]](https://proceedings.mlr.press/v202/maini23a/maini23a.pdf)
+- (ACL 2022) Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy [\[paper\]](https://arxiv.org/pdf/2210.17546)
 - (STOC 2021) When is memorization of irrelevant training data necessary for high-accuracy learning? [\[paper\]](https://arxiv.org/pdf/2012.06421)
 - (ICLR 2021) On the geometry of generalization and memorization in deep neural networks [\[paper\]](https://arxiv.org/pdf/2105.14602)
 - (NIPS 2021) On Memorization in Probabilistic Deep Generative Models [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)
@@ -42,6 +43,7 @@ Focusing on everything on the memorization of foundation models with the interac
 - (NIPS 2023) Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks [\[paper\]](https://openreview.net/pdf?id=IKvxmnHjkL)
 - (JMLR 2023) Benign overﬁtting in ridge regression [\[paper\]](https://www.jmlr.org/papers/volume24/22-1398/22-1398.pdf)
 - (Acta Numerica 2022) Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation [\[paper\]](https://arxiv.org/pdf/2105.14368)
+- (arXiv 2022) Scaling Laws and Interpretability of Learning from Repeated Data [\[paper\]](https://arxiv.org/pdf/2205.10487)
 - (JMLR 2022) Underspecification Presents Challenges for Credibility in Modern Machine Learning [\[paper\]](https://www.jmlr.org/papers/volume23/20-1335/20-1335.pdf)
 - (NIPS 2022) Memorization and Optimization in Deep Neural Networks with Minimum Over-parameterization [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/323746f0ae2fbd8b6f500dc2d5c5f898-Paper-Conference.pdf)
 - (COLT 2022) Memorize to generalize: on the necessity of interpolation in high dimensional linear regression [\[paper\]](https://proceedings.mlr.press/v178/cheng22a/cheng22a.pdf)
@@ -167,4 +169,7 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ### Miscellaneous
 - Analyzing Leakage of Personally Identifiable Information in Language Models
+- (arXiv 2024) LMD3: Language Model Data Density Dependence [\[paper\]](https://arxiv.org/pdf/2405.06331)
+- (arXiv 2024) Investigating Data Contamination for Pre-training Language Models [\[paper\]](https://arxiv.org/pdf/2401.06059)
+- (arXiv 2023) Rethinking Benchmark and Contamination for Language Models with Rephrased Samples [\[paper\]](https://arxiv.org/pdf/2311.04850)
 
