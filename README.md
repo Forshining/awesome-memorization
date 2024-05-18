@@ -169,6 +169,7 @@ Focusing on everything on the memorization of foundation models with the interac
 
 ### Miscellaneous
 - Analyzing Leakage of Personally Identifiable Information in Language Models
+- (arXiv 2024) Evaluating Model Bias Requires Characterizing its Mistakes [\[paper\]](https://openreview.net/pdf?id=16JbY5O0kS)
 - (arXiv 2024) LMD3: Language Model Data Density Dependence [\[paper\]](https://arxiv.org/pdf/2405.06331)
 - (arXiv 2024) Investigating Data Contamination for Pre-training Language Models [\[paper\]](https://arxiv.org/pdf/2401.06059)
 - (arXiv 2023) Rethinking Benchmark and Contamination for Language Models with Rephrased Samples [\[paper\]](https://arxiv.org/pdf/2311.04850)
